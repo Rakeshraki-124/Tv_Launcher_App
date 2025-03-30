@@ -3,7 +3,7 @@
 A secure Android TV launcher designed for children, featuring app restrictions and parental controls.
 
 ![App Screenshot](kidscreen.png)
-![PIN Dialog](dialog.png)
+![PIN Dialog](dialog2.png)
 
 ## 📱 Features
 
